@@ -34,6 +34,7 @@ namespace OooPs14
                 builder.AddApplicationInsightsSettings(developerMode: true);
                 //This is change!!!
                 //new message
+                //new change 1
             }
 
             builder.AddEnvironmentVariables();
